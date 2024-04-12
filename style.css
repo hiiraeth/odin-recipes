@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+}
+
+.image {
+    align-items: center;
+}
+
+h1 {
+    background-color: aquamarine;
+}
+
+h2 {
+    color: red;
+}
+
+* {
+    background-color: antiquewhite;
+}
+
+.links {
+    background-color: rosybrown;
+    transform: matrix3d(5px);
+}
